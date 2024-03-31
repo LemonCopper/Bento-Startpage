@@ -147,8 +147,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 70px;
-  height: 70px;
+  height: 70px !important;
 }
 
 .clock {
