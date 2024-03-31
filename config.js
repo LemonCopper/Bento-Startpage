@@ -140,11 +140,11 @@ const CONFIG = {
 			links: [
 				{
 					name: 'TPS',
-					link: 'https://www.potterschool.org/student',
+					link: 'https://www.pottersschool.org/student',
 				},
 				{
 					name: 'GP7',
-					link: 'https://www.potterschool.org/gp7/#/rooms',
+					link: 'https://www.pottersschool.org/gp7/#/rooms',
 				},
 				{
 					name: 'Drive',
